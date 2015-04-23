@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classrxcpp_1_1schedulers_1_1detail_1_1cold__observable.html" title="rxcpp::schedulers::\ldetail::cold_observable\&lt; T \&gt;" alt="" coords="182,5,371,44"/>
+<area shape="rect" id="node3" href="$classrxcpp_1_1schedulers_1_1detail_1_1hot__observable.html" title="rxcpp::schedulers::\ldetail::hot_observable\&lt; T \&gt;" alt="" coords="185,68,368,107"/>
+<area shape="rect" id="node4" href="$classrxcpp_1_1schedulers_1_1detail_1_1mock__observer.html" title="rxcpp::schedulers::\ldetail::mock_observer\&lt; T \&gt;" alt="" coords="185,131,368,169"/>
+</map>

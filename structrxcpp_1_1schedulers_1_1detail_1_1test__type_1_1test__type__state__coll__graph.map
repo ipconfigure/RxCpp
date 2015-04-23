@@ -1,0 +1,5 @@
+<map id="rxcpp::schedulers::detail::test_type::test_type_state" name="rxcpp::schedulers::detail::test_type::test_type_state">
+<area shape="rect" id="node2" href="$structrxcpp_1_1schedulers_1_1virtual__time.html" title="rxcpp::schedulers::\lvirtual_time\&lt; long,\l long \&gt;" alt="" coords="497,60,630,112"/>
+<area shape="rect" id="node3" href="$structrxcpp_1_1schedulers_1_1detail_1_1virtual__time__base.html" title="rxcpp::schedulers::\ldetail::virtual_time\l_base\&lt; long, long \&gt;" alt="" coords="255,5,394,57"/>
+<area shape="rect" id="node5" href="$classrxcpp_1_1schedulers_1_1detail_1_1schedulable__queue.html" title="rxcpp::schedulers::\ldetail::schedulable\l_queue\&lt; typename item\l_type::time_point_type \&gt;" alt="" coords="241,81,408,147"/>
+</map>

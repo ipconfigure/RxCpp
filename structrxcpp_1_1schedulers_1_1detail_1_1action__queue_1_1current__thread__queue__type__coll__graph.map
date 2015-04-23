@@ -1,0 +1,4 @@
+<map id="rxcpp::schedulers::detail::action_queue::current_thread_queue_type" name="rxcpp::schedulers::detail::action_queue::current_thread_queue_type">
+<area shape="rect" id="node2" href="$classrxcpp_1_1schedulers_1_1recursion.html" title="recursion is used by the scheduler to signal to each action whether tail recursion is allowed..." alt="" coords="23,5,156,44"/>
+<area shape="rect" id="node3" href="$classrxcpp_1_1schedulers_1_1detail_1_1schedulable__queue.html" title="rxcpp::schedulers::\ldetail::schedulable\l_queue\&lt; item_type::time\l_point_type \&gt;" alt="" coords="5,68,173,133"/>
+</map>

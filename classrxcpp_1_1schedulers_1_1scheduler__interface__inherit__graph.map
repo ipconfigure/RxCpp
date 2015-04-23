@@ -1,0 +1,8 @@
+<map id="rxcpp::schedulers::scheduler_interface" name="rxcpp::schedulers::scheduler_interface">
+<area shape="rect" id="node3" href="$structrxcpp_1_1schedulers_1_1current__thread.html" title="rxcpp::schedulers::\lcurrent_thread" alt="" coords="392,5,525,44"/>
+<area shape="rect" id="node4" href="$classrxcpp_1_1schedulers_1_1detail_1_1test__type.html" title="rxcpp::schedulers::\ldetail::test_type" alt="" coords="392,68,525,107"/>
+<area shape="rect" id="node5" href="$structrxcpp_1_1schedulers_1_1event__loop.html" title="rxcpp::schedulers::\levent_loop" alt="" coords="392,131,525,169"/>
+<area shape="rect" id="node6" href="$structrxcpp_1_1schedulers_1_1immediate.html" title="rxcpp::schedulers::\limmediate" alt="" coords="392,193,525,232"/>
+<area shape="rect" id="node7" href="$structrxcpp_1_1schedulers_1_1new__thread.html" title="rxcpp::schedulers::\lnew_thread" alt="" coords="392,256,525,295"/>
+<area shape="rect" id="node8" href="$structrxcpp_1_1schedulers_1_1same__worker.html" title="rxcpp::schedulers::\lsame_worker" alt="" coords="392,319,525,357"/>
+</map>

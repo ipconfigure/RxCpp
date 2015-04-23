@@ -1,0 +1,5 @@
+<map id="rxcpp::subjects::detail::multicast_observer&lt; T &gt;" name="rxcpp::subjects::detail::multicast_observer&lt; T &gt;">
+<area shape="rect" id="node3" href="$classrxcpp_1_1subjects_1_1detail_1_1behavior__observer.html" title="rxcpp::subjects::detail\l::behavior_observer\&lt; T \&gt;" alt="" coords="463,5,633,44"/>
+<area shape="rect" id="node4" href="$classrxcpp_1_1subjects_1_1detail_1_1synchronize__observer.html" title="rxcpp::subjects::detail\l::synchronize_observer\&lt; T \&gt;" alt="" coords="453,68,643,107"/>
+<area shape="rect" id="node2" href="$structrxcpp_1_1observer__base.html" title="rxcpp::observer_base\&lt; T \&gt;" alt="" coords="5,44,186,69"/>
+</map>

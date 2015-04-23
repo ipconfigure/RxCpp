@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structrxcpp_1_1coordination__base.html" title="rxcpp::coordination_base" alt="" coords="5,107,176,132"/>
+<area shape="rect" id="node2" href="$classrxcpp_1_1identity__one__worker.html" title="rxcpp::identity_one\l_worker" alt="" coords="237,5,371,44"/>
+<area shape="rect" id="node3" href="$classrxcpp_1_1observe__on__one__worker.html" title="rxcpp::observe_on_one\l_worker" alt="" coords="224,68,384,107"/>
+<area shape="rect" id="node4" href="$classrxcpp_1_1serialize__one__worker.html" title="rxcpp::serialize_one\l_worker" alt="" coords="234,131,374,169"/>
+<area shape="rect" id="node5" href="$classrxcpp_1_1synchronize__in__one__worker.html" title="rxcpp::synchronize\l_in_one_worker" alt="" coords="238,193,370,232"/>
+</map>

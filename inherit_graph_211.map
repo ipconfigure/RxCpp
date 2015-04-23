@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structrxcpp_1_1operators_1_1operator__base.html" title="rxcpp::operators::operator\l_base\&lt; lift_traits\&lt; ResultType,\l SourceOperator, Operator \&gt;\l::result_value_type \&gt;" alt="" coords="5,5,206,71"/>
+<area shape="rect" id="node2" href="$structrxcpp_1_1operators_1_1detail_1_1lift__operator.html" title="rxcpp::operators::detail\l::lift_operator\&lt; ResultType,\l SourceOperator, Operator \&gt;" alt="" coords="254,12,445,64"/>
+</map>

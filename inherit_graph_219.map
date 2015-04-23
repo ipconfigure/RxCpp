@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structrxcpp_1_1operators_1_1operator__base.html" title="rxcpp::operators::operator\l_base\&lt; T \&gt;" alt="" coords="5,341,180,380"/>
+<area shape="rect" id="node2" href="$structrxcpp_1_1operators_1_1detail_1_1connect__forever.html" title="rxcpp::operators::detail\l::connect_forever\&lt; T, Connectable\lObservable \&gt;" alt="" coords="248,5,472,57"/>
+<area shape="rect" id="node3" href="$structrxcpp_1_1operators_1_1detail_1_1multicast.html" title="rxcpp::operators::detail\l::multicast\&lt; T, Observable,\l Subject \&gt;" alt="" coords="271,81,449,133"/>
+<area shape="rect" id="node4" href="$structrxcpp_1_1operators_1_1detail_1_1ref__count.html" title="rxcpp::operators::detail\l::ref_count\&lt; T, ConnectableObservable \&gt;" alt="" coords="228,157,492,196"/>
+<area shape="rect" id="node5" href="$structrxcpp_1_1operators_1_1detail_1_1repeat.html" title="rxcpp::operators::detail\l::repeat\&lt; T, Observable,\l Count \&gt;" alt="" coords="278,220,442,272"/>
+<area shape="rect" id="node6" href="$structrxcpp_1_1operators_1_1detail_1_1retry.html" title="rxcpp::operators::detail\l::retry\&lt; T, Observable,\l Count \&gt;" alt="" coords="282,296,439,348"/>
+<area shape="rect" id="node7" href="$structrxcpp_1_1operators_1_1detail_1_1skip.html" title="rxcpp::operators::detail\l::skip\&lt; T, Observable,\l Count \&gt;" alt="" coords="282,372,439,424"/>
+<area shape="rect" id="node8" href="$structrxcpp_1_1operators_1_1detail_1_1skip__until.html" title="rxcpp::operators::detail\l::skip_until\&lt; T, Observable,\l TriggerObservable, Coordination \&gt;" alt="" coords="246,448,475,500"/>
+<area shape="rect" id="node9" href="$structrxcpp_1_1operators_1_1detail_1_1subscribe__on.html" title="rxcpp::operators::detail\l::subscribe_on\&lt; T, Observable,\l Coordination \&gt;" alt="" coords="258,524,463,576"/>
+<area shape="rect" id="node10" href="$structrxcpp_1_1operators_1_1detail_1_1take.html" title="rxcpp::operators::detail\l::take\&lt; T, Observable,\l Count \&gt;" alt="" coords="282,600,439,652"/>
+<area shape="rect" id="node11" href="$structrxcpp_1_1operators_1_1detail_1_1take__until.html" title="rxcpp::operators::detail\l::take_until\&lt; T, Observable,\l TriggerObservable, Coordination \&gt;" alt="" coords="246,676,475,728"/>
+</map>

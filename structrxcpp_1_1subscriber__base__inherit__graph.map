@@ -1,0 +1,6 @@
+<map id="rxcpp::subscriber_base&lt; T &gt;" name="rxcpp::subscriber_base&lt; T &gt;">
+<area shape="rect" id="node4" href="$classrxcpp_1_1subscriber.html" title="binds an observer that consumes values with a composite_subscription that controls lifetime..." alt="" coords="36,152,190,177"/>
+<area shape="rect" id="node5" href="$classrxcpp_1_1subscriber.html" title="subscriber\&lt; T, I \&gt;" alt="" coords="214,152,337,177"/>
+<area shape="rect" id="node2" href="$structrxcpp_1_1observer__base.html" title="rxcpp::observer_base\&lt; T \&gt;" alt="" coords="5,5,186,31"/>
+<area shape="rect" id="node3" href="$structrxcpp_1_1subscription__base.html" title="rxcpp::subscription_base" alt="" coords="210,5,379,31"/>
+</map>

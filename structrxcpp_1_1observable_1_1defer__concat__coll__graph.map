@@ -1,0 +1,4 @@
+<map id="rxcpp::observable&lt; T, SourceOperator &gt;::defer_concat&lt; Coordination &gt;" name="rxcpp::observable&lt; T, SourceOperator &gt;::defer_concat&lt; Coordination &gt;">
+<area shape="rect" id="node2" href="$structrxcpp_1_1defer__observable.html" title="rxcpp::defer_observable\l\&lt; is_observable\&lt; value\l_type \&gt;, this_type, rxo\l::detail::concat, value\l_type, observable\&lt; value\l_type \&gt;, Coordination \&gt;" alt="" coords="241,5,411,97"/>
+<area shape="rect" id="node3" href="$structrxcpp_1_1detail_1_1resolve__observable.html" title="rxcpp::detail::resolve\l_observable\&lt; is_observable\l\&lt; value_type \&gt;::value, this\l_type, rxu::defer_type\&lt; rxo\l::detail::concat, AN...\&gt; \&gt;" alt="" coords="5,12,193,91"/>
+</map>

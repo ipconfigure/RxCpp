@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structrxcpp_1_1observer__base.html" title="rxcpp::observer_base\l\&lt; observable\&lt; T \&gt; \&gt;" alt="" coords="31,101,181,140"/>
+<area shape="rect" id="node2" href="$structrxcpp_1_1operators_1_1detail_1_1window_1_1window__observer.html" title="rxcpp::operators::detail\l::window\&lt; T \&gt;::window_observer\l\&lt; Subscriber \&gt;" alt="" coords="255,5,470,57"/>
+<area shape="rect" id="node3" href="$structrxcpp_1_1operators_1_1detail_1_1window__with__time_1_1window__with__time__observer.html" title="rxcpp::operators::detail\l::window_with_time\&lt; T,\l Duration, Coordination\l \&gt;::window_with_time_observer\l\&lt; Subscriber \&gt;" alt="" coords="259,81,466,160"/>
+<area shape="rect" id="node4" href="$structrxcpp_1_1operators_1_1detail_1_1window__with__time__or__count_1_1window__with__time__or__count__observer.html" title="rxcpp::operators::detail\l::window_with_time_or_count\l\&lt; T, Duration, Coordination\l \&gt;::window_with_time_or_count\l_observer\&lt; Subscriber \&gt;" alt="" coords="259,184,466,263"/>
+<area shape="rect" id="node5" href="$structrxcpp_1_1operators_1_1detail_1_1window_1_1window__values.html" title="rxcpp::operators::detail\l::window\&lt; T \&gt;::window_values" alt="" coords="5,12,207,51"/>
+</map>

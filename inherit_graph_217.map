@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structrxcpp_1_1operators_1_1operator__base.html" title="rxcpp::operators::operator\l_base\&lt; rxu::value_type_t\l\&lt; rxu::decay_t\&lt; T \&gt; \&gt; \&gt;" alt="" coords="5,81,180,133"/>
+<area shape="rect" id="node2" href="$structrxcpp_1_1operators_1_1detail_1_1concat.html" title="rxcpp::operators::detail\l::concat\&lt; T, Observable,\l Coordination \&gt;" alt="" coords="254,5,420,57"/>
+<area shape="rect" id="node3" href="$structrxcpp_1_1operators_1_1detail_1_1merge.html" title="rxcpp::operators::detail\l::merge\&lt; T, Observable,\l Coordination \&gt;" alt="" coords="255,81,419,133"/>
+<area shape="rect" id="node4" href="$structrxcpp_1_1operators_1_1detail_1_1switch__on__next.html" title="rxcpp::operators::detail\l::switch_on_next\&lt; T, Observable,\l Coordination \&gt;" alt="" coords="228,157,446,209"/>
+</map>

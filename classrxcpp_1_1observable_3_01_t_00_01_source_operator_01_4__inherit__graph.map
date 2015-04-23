@@ -1,0 +1,4 @@
+<map id="rxcpp::observable&lt; T, SourceOperator &gt;" name="rxcpp::observable&lt; T, SourceOperator &gt;">
+<area shape="rect" id="node2" href="$classrxcpp_1_1connectable__observable.html" title="a source of values that is shared across all subscribers and does not start until connectable_observa..." alt="" coords="199,5,424,44"/>
+<area shape="rect" id="node3" href="$classrxcpp_1_1grouped__observable.html" title="a source of observables which each emit values from one category specified by the key selector..." alt="" coords="220,68,403,107"/>
+</map>

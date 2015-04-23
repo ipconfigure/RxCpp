@@ -1,0 +1,4 @@
+<map id="rxcpp::sources::detail::defer_interval&lt; TimePoint, Coordination &gt;" name="rxcpp::sources::detail::defer_interval&lt; TimePoint, Coordination &gt;">
+<area shape="rect" id="node2" href="$structrxcpp_1_1defer__observable.html" title="rxcpp::defer_observable\l\&lt; rxu::all_true\&lt; std::\lis_convertible\&lt; TimePoint,\l rxsc::scheduler::clock_type\l::time_point \&gt;::value, is_coordination\l\&lt; Coordination \&gt;::value \&gt;, void, interval,\l Coordination \&gt;" alt="" coords="291,12,547,117"/>
+<area shape="rect" id="node3" href="$structrxcpp_1_1detail_1_1resolve__observable.html" title="rxcpp::detail::resolve\l_observable\&lt; rxu::all\l_true\&lt; std::is_convertible\l\&lt; TimePoint, rxsc::scheduler\l::clock_type::time_point \&gt;::\lvalue, is_coordination\&lt; Coordination\l \&gt;::value \&gt;::value, void, rxu::defer\l_type\&lt; interval, AN...\&gt; \&gt;" alt="" coords="5,5,243,124"/>
+</map>

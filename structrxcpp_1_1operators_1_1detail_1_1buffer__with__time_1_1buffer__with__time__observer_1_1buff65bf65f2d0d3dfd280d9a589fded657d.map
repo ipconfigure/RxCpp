@@ -1,0 +1,9 @@
+<map id="rxcpp::operators::detail::buffer_with_time&lt; T, Duration, Coordination &gt;::buffer_with_time_observer&lt; Subscriber &gt;::buffer_with_time_subscriber_values" name="rxcpp::operators::detail::buffer_with_time&lt; T, Duration, Coordination &gt;::buffer_with_time_observer&lt; Subscriber &gt;::buffer_with_time_subscriber_values">
+<area shape="rect" id="node2" href="$structrxcpp_1_1operators_1_1detail_1_1buffer__with__time_1_1buffer__with__time__values.html" title="rxcpp::operators::detail\l::buffer_with_time\&lt; T,\l Duration, Coordination\l \&gt;::buffer_with_time_values" alt="" coords="443,5,626,71"/>
+<area shape="rect" id="node3" href="$classrxcpp_1_1composite__subscription.html" title="controls lifetime for scheduler::schedule and observable&lt;T, SourceOperator&gt;::subscribe. " alt="" coords="434,95,635,120"/>
+<area shape="rect" id="node4" href="$classrxcpp_1_1detail_1_1composite__subscription__inner.html" title="rxcpp::detail::composite\l_subscription_inner" alt="" coords="223,32,385,71"/>
+<area shape="rect" id="node5" href="$classrxcpp_1_1subscription.html" title="rxcpp::subscription" alt="" coords="238,95,370,120"/>
+<area shape="rect" id="node6" href="$structrxcpp_1_1subscription__base.html" title="rxcpp::subscription_base" alt="" coords="5,121,174,147"/>
+<area shape="rect" id="node8" href="$structrxcpp_1_1schedulers_1_1worker__base.html" title="rxcpp::schedulers::\lworker_base" alt="" coords="238,144,371,183"/>
+<area shape="rect" id="node7" href="$classrxcpp_1_1schedulers_1_1worker.html" title="rxcpp::schedulers::\lworker" alt="" coords="468,144,601,183"/>
+</map>

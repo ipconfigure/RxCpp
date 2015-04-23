@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structrxcpp_1_1operators_1_1detail_1_1group__by_1_1group__by__values.html" title="rxcpp::operators::detail\l::group_by\&lt; T, Observable,\l KeySelector, MarbleSelector,\l BinaryPredicate \&gt;::group_by_values" alt="" coords="5,12,245,77"/>
+<area shape="rect" id="node2" href="$structrxcpp_1_1operators_1_1detail_1_1group__by_1_1group__by__observer.html" title="rxcpp::operators::detail\l::group_by\&lt; T, Observable,\l KeySelector, MarbleSelector,\l BinaryPredicate \&gt;::group_by\l_observer\&lt; Subscriber \&gt;" alt="" coords="293,5,489,84"/>
+</map>

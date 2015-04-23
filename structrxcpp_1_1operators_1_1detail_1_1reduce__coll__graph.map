@@ -1,0 +1,4 @@
+<map id="rxcpp::operators::detail::reduce&lt; T, SourceOperator, Accumulator, ResultSelector, Seed &gt;" name="rxcpp::operators::detail::reduce&lt; T, SourceOperator, Accumulator, ResultSelector, Seed &gt;">
+<area shape="rect" id="node2" href="$structrxcpp_1_1operators_1_1operator__base.html" title="rxcpp::operators::operator\l_base\&lt; rxu::value_type_t\l\&lt; reduce_traits\&lt; T, SourceOperator,\l Accumulator, ResultSelector, Seed \&gt; \&gt; \&gt;" alt="" coords="5,5,269,71"/>
+<area shape="rect" id="node3" href="$structrxcpp_1_1operators_1_1detail_1_1reduce_1_1reduce__initial__type.html" title="rxcpp::operators::detail\l::reduce\&lt; T, SourceOperator,\l Accumulator, ResultSelector,\l Seed \&gt;::reduce_initial_type" alt="" coords="40,95,235,160"/>
+</map>

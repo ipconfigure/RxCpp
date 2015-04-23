@@ -1,0 +1,12 @@
+<map id="rxcpp::observer_base&lt; T &gt;" name="rxcpp::observer_base&lt; T &gt;">
+<area shape="rect" id="node2" href="$classrxcpp_1_1observer.html" title="observer\&lt; T \&gt;" alt="" coords="277,12,380,37"/>
+<area shape="rect" id="node4" href="$classrxcpp_1_1observer.html" title="consumes values from an observable. " alt="" coords="257,61,400,87"/>
+<area shape="rect" id="node5" href="$classrxcpp_1_1observer_3_01_t_00_01void_01_4.html" title="rxcpp::observer\&lt; T,\l void \&gt;" alt="" coords="261,111,396,149"/>
+<area shape="rect" id="node6" href="$classrxcpp_1_1subjects_1_1detail_1_1multicast__observer.html" title="rxcpp::subjects::detail\l::multicast_observer\&lt; T \&gt;" alt="" coords="243,173,414,212"/>
+<area shape="rect" id="node9" href="$structrxcpp_1_1subscriber__base.html" title="rxcpp::subscriber_base\&lt; T \&gt;" alt="" coords="234,236,423,261"/>
+<area shape="rect" id="node3" href="$classrxcpp_1_1test_1_1testable__observer.html" title="rxcpp::test::testable\l_observer\&lt; T \&gt;" alt="" coords="498,5,635,44"/>
+<area shape="rect" id="node7" href="$classrxcpp_1_1subjects_1_1detail_1_1behavior__observer.html" title="rxcpp::subjects::detail\l::behavior_observer\&lt; T \&gt;" alt="" coords="481,111,651,149"/>
+<area shape="rect" id="node8" href="$classrxcpp_1_1subjects_1_1detail_1_1synchronize__observer.html" title="rxcpp::subjects::detail\l::synchronize_observer\&lt; T \&gt;" alt="" coords="471,173,661,212"/>
+<area shape="rect" id="node10" href="$classrxcpp_1_1subscriber.html" title="binds an observer that consumes values with a composite_subscription that controls lifetime..." alt="" coords="490,236,643,261"/>
+<area shape="rect" id="node11" href="$classrxcpp_1_1subscriber.html" title="subscriber\&lt; T, I \&gt;" alt="" coords="505,285,628,311"/>
+</map>

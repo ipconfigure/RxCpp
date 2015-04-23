@@ -1,0 +1,4 @@
+<map id="rxcpp::operators::detail::take_until&lt; T, Observable, TriggerObservable, Coordination &gt;" name="rxcpp::operators::detail::take_until&lt; T, Observable, TriggerObservable, Coordination &gt;">
+<area shape="rect" id="node2" href="$structrxcpp_1_1operators_1_1operator__base.html" title="rxcpp::operators::operator\l_base\&lt; T \&gt;" alt="" coords="27,5,202,44"/>
+<area shape="rect" id="node3" href="$structrxcpp_1_1operators_1_1detail_1_1take__until_1_1values.html" title="rxcpp::operators::detail\l::take_until\&lt; T, Observable,\l TriggerObservable, Coordination\l \&gt;::values" alt="" coords="5,68,223,133"/>
+</map>
