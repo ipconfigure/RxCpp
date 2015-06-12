@@ -17,3 +17,16 @@ before_build:
 
 build:
     project: projects\build\rxcpp.sln
+
+artifacts:
+  - path: Rx\v2\src\
+    name: rxcpp source
+    type: zip
+  - path: Rx\v2\examples\
+    name: rxcpp examples
+    type: zip
+
+  - provider: Slack
+    auth_token: 
+      secure: qaGjbI98VXZa7Zd2s3RmMzfA+ymrfWUDuzevdtOcHssEGBXbcoOJzLHNOmG+Y1nX
+    channel: rxcpp
